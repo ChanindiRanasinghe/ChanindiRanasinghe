@@ -1,5 +1,9 @@
 ## Hi there 👋
+## 🏅 Achievements
 
+![GitHub for Beginners](link-to-your-badge-image)
+
+✅ Completed GitHub for Beginners by Nisal Gunawardhana
 <!--
 **ChanindiRanasinghe/ChanindiRanasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
