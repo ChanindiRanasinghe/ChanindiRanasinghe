@@ -1,4 +1,4 @@
-## # Hi there 👋 # Hi there 👋 I'm Chanindi Ranasinghe
+## # Hi there 👋 I'm Chanindi Ranasinghe
 
 **Information Systems Undergraduate • Developer • UI/UX Enthusiast 🎨💻**
 
